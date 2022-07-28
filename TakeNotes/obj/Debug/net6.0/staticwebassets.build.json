@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zJ/PZOtPqHIgSsWx1KVMRlwCp+meBjLYH5eKtXYY8iI=",
+  "Source": "TakeNotesServer",
+  "BasePath": "_content/TakeNotesServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
